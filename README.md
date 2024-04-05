@@ -4,7 +4,7 @@ Welcome to my Github Page! Please take a look around 😄
 
 
 ## Badges and Certifications
-[<img src=https://github.com/heftif/heftif/assets/100215387/e460e349-8523-4ed5-b1b5-3df83971d026 width="140">](https://www.credly.com/badges/7fd1f4fc-0e57-4f61-8409-8eaf8289f601/public_url) <img src=https://github.com/heftif/heftif/assets/100215387/434c3fa9-2f46-4301-883b-954526c0cc0d width="130">
+[<img src=https://github.com/heftif/heftif/assets/100215387/e460e349-8523-4ed5-b1b5-3df83971d026 width="130">](https://www.credly.com/badges/7fd1f4fc-0e57-4f61-8409-8eaf8289f601/public_url) <img src=https://github.com/heftif/heftif/assets/100215387/434c3fa9-2f46-4301-883b-954526c0cc0d width="115">
 
 
 <!--
