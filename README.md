@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 ## Badges
 ![hack-together-the-great-net-8-hack-finisher](https://github.com/heftif/heftif/assets/100215387/e460e349-8523-4ed5-b1b5-3df83971d026)
 
-
-https://www.credly.com/badges/7fd1f4fc-0e57-4f61-8409-8eaf8289f601/public_url
+[<img src=https://github.com/heftif/heftif/assets/100215387/e460e349-8523-4ed5-b1b5-3df83971d026>](https://www.credly.com/badges/7fd1f4fc-0e57-4f61-8409-8eaf8289f601/public_url)
